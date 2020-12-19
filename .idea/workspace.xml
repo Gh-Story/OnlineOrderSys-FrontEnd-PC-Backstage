@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74237e48-d722-463a-8949-76703d34229a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/ForgetPassword/ForgetPassword.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/ForgetPassword/ForgetPasswordService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/Activity/Activity.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/AuthorityManage/AuthorityManage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/Comment/Comment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/Diary/Diary.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/FinancialManagement/FinancialManagement.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/FoodLabels/FoodLabels.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/FoodManage/FoodManage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/HomePage/HomePage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/OrderSelect/OrderSelect.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/Pagedemo/Pagedemo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/Pagedemo/Pagedemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/RedPacketManage/RedPacketManage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/ResturantManage/ResturantManage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/TagManager/TagManager.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/TaskManage/TaskManage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/User/User.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Login/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Login/LoginService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/FOOD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/MERCH.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/MSR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/loginQR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logotext-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logotext-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dDFmAiPnr7d6xtEhc29HSsbtEk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HBuilderProject\pc_bg_f\src\views\Home\Diary" />
+      <recent name="D:\HBuilderProject\pc_bg_f\static" />
+      <recent name="D:\HBuilderProject\pc_bg_f\src\views\Home\User" />
+      <recent name="D:\HBuilderProject\pc_bg_f\src\views\Home\Comment" />
+      <recent name="D:\HBuilderProject\pc_bg_f\src\views\Home\Activity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HBuilderProject\pc_bg_f" />
+      <recent name="D:\HBuilderProject\pc_bg_f\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74237e48-d722-463a-8949-76703d34229a" name="Default Changelist" comment="" />
+      <created>1591951915028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591951915028</updated>
+      <workItem from="1591951995054" duration="2708000" />
+      <workItem from="1591967699738" duration="1199000" />
+      <workItem from="1592096740870" duration="25088000" />
+      <workItem from="1592469930360" duration="1229000" />
+      <workItem from="1592621113041" duration="28090000" />
+      <workItem from="1592715427127" duration="15545000" />
+      <workItem from="1592806701499" duration="5004000" />
+      <workItem from="1592890896732" duration="9062000" />
+      <workItem from="1592961102925" duration="19155000" />
+      <workItem from="1593071241354" duration="3187000" />
+      <workItem from="1593157969140" duration="18700000" />
+      <workItem from="1593346268320" duration="10112000" />
+      <workItem from="1593411330695" duration="4508000" />
+      <workItem from="1593417315462" duration="14654000" />
+      <workItem from="1593479807301" duration="38148000" />
+      <workItem from="1593565945375" duration="9508000" />
+      <workItem from="1593657808831" duration="25375000" />
+      <workItem from="1593741983410" duration="16696000" />
+      <workItem from="1593762474376" duration="3886000" />
+      <workItem from="1593786149316" duration="914000" />
+      <workItem from="1593788661086" duration="222000" />
+      <workItem from="1593790558460" duration="2241000" />
+      <workItem from="1593844443185" duration="4214000" />
+      <workItem from="1593923681739" duration="2682000" />
+      <workItem from="1593996850968" duration="3969000" />
+      <workItem from="1594089213910" duration="5473000" />
+      <workItem from="1594171420202" duration="2174000" />
+      <workItem from="1594190501649" duration="12331000" />
+      <workItem from="1594261281422" duration="3347000" />
+      <workItem from="1594272930583" duration="14740000" />
+      <workItem from="1594368076343" duration="8599000" />
+      <workItem from="1594392120605" duration="1331000" />
+      <workItem from="1594441510264" duration="4748000" />
+      <workItem from="1594523917289" duration="703000" />
+      <workItem from="1594535410079" duration="525000" />
+      <workItem from="1594562292916" duration="709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594273858506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594273858506" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594523966229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594523966229" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1592639912608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1592639912608" />
+    <state x="336" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593441000407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="336" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1593441000407" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1593660252960">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1593660252960" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594374336154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594374336154" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/Home/HomePage/OrderSelect.vue</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/Home/ResturantManage/ResturantManage.vue</url>
+          <line>46</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/Home/ResturantManage/ResturantManage.vue</url>
+          <line>53</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
